@@ -1,5 +1,0 @@
-{{ #user}
-Name: Md. Abu Ahad,
-Skills: HTML, CSS, JS, React,Tailwind,Bootstrap,
-Email:  abuahad35188@gmail.coom,
-{{/user}}
